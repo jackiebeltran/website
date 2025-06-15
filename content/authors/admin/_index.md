@@ -144,7 +144,3 @@ Honors & Awards:
 
 
 ---
-
-## About Me
-
-A Neuroscience PhD Candidate at the Icahn School of Medicine at Mount Sinai whose research is dedicated to advancing our understanding of the neurological mechanisms that characterize depression.
