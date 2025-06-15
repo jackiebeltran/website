@@ -32,10 +32,12 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'About Me'
       subtitle: ''
       text: |-
-        I focus on investigating the role of the ventral tegmental area utilizing functional magnetic resonance imaging, computational modeling techniques and digital phenotyping.
+        A San Diego Native currently based in New York City. My research focuses on investigating the role of the ventral tegmental area utilizing functional magnetic resonance imaging, computational modeling techniques and digital phenotyping. 
+        
+        When I'm not in the lab, I enjoy going social dancing, exploring the outdoors, and trying new vegan recipes.
         
         Please reach out to collaborate 😃
     design:
@@ -50,7 +52,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 1
+      columns: 2
   - block: collection
     content:
       title: Publications
