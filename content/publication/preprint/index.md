@@ -1,12 +1,13 @@
 ---
-title: "An example preprint / working paper"
+title: "Digital measures of activity and motivation impact depression and anxiety in the real world"
+
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2025-05-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,27 +18,27 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Mood and anxiety disorders are highly comorbid, with symptom severity varying over time. Individuals with and without these disorders completed 30-days of ecological momentary assessment (EMAs) of depression, anxiety and distress, developed based on the established Mood and Anxiety Symptom Questionnaire (MASQ). These electronic MASQ (eMASQ) EMAs were collected alongside novel intrinsic and extrinsic motivation EMAs, and physical/digital activity measures (steps/screentime) across N = 70–101 participants. Each eMASQ-EMA significantly related to its corresponding MASQ measure. Extrinsic and intrinsic motivation negatively related to each eMASQ-EMA and had the greatest influence on patients’ overall symptom profile. Physical, but not digital activity, was negatively associated with concurrent and 1-week lagged anxiety and depression, highlighting the temporally delayed benefits of physical activity on depression and anxiety symptoms in psychiatric groups. Collectively, this study suggests cognitive constructs related to drive and physical activity, may be useful in predicting continuous and transient psychiatric symptoms in the real-world.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing #elit. Duis posuere tellus ac convallis placerat. Proin #tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+- Digital Phenotyping
 
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+- name: Read me
+  url: https://www.nature.com/articles/s41746-025-01669-0
+#url_pdf: http://arxiv.org/pdf/1512.04133v1
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -59,13 +60,10 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
-
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

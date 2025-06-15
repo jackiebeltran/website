@@ -147,7 +147,4 @@ Honors & Awards:
 
 ## About Me
 
-Jacqueline Beltrán is a Neuroscience PhD Candidate at the Icahn School of Medicine at Mount Sinai whose research is dedicated to advancing our understanding of the neurological mechanisms that characterize depression. Specifically, she focuses on investigating the role of the ventral tegmental area, utilizing functional magnetic resonance imaging, computational modeling techniques, and digital phenotyping. 
-
-
-Jacqueline is also passionate about increasing diversity in science and science communication. As such, she has led a student organization that works to provide support and community to graduate students from diverse backgrounds and  volunteers with a campus organization teaching neuroscience lessons to middle school students.
+A Neuroscience PhD Candidate at the Icahn School of Medicine at Mount Sinai whose research is dedicated to advancing our understanding of the neurological mechanisms that characterize depression.
