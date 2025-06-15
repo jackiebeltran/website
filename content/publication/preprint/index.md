@@ -29,7 +29,7 @@ tags:
 featured: true
 
 links:
-- name: Read me
+- name: Full article
   url: https://www.nature.com/articles/s41746-025-01669-0
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
@@ -43,9 +43,9 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  #focal_point: ""
+  #preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
