@@ -35,11 +35,12 @@ sections:
       title: 'About Me'
       subtitle: ''
       text: |-
-        A San Diego Native currently based in New York City. My research focuses on investigating the role of the ventral tegmental area utilizing functional magnetic resonance imaging, computational modeling techniques and digital phenotyping. 
+       <div style="text-align: center;">
+        A San Diego Native currently based in New York City pursuing a PhD in Neuroscience at the Icahn School of Medicine at Mount Sinai (expected May 2026). My research focuses on investigating the role of the ventral tegmental area utilizing functional magnetic resonance imaging, computational modeling techniques and digital phenotyping. 
         
+       <br><br>
+
         When I'm not in the lab, I enjoy going social dancing, exploring the outdoors, and trying new vegan recipes.
-        
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
