@@ -1,13 +1,11 @@
 ---
-title: PyTorch
+title: Neuroimaging
 date: 2023-10-26
 external_link: https://github.com/pytorch/pytorch
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+ # - Hugo
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Utilizing 7-Tesla Magnetic Resonance Imaging to identify neural correlates of learning.
 
 <!--more-->

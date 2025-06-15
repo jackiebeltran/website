@@ -1,5 +1,5 @@
 ---
-title: Pandas
+title: Computational Modeling
 date: 2023-10-26
 external_link: https://github.com/pandas-dev/pandas
 tags:
@@ -8,6 +8,6 @@ tags:
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Utilizing Q-Learning algorithms to study reward and loss learning in depression.
 
 <!--more-->
