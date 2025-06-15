@@ -19,7 +19,7 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Neuroscience"
+publication: "Review Paper"
 publication_short: ""
 
 abstract: Depressive disorders, including major depressive disorder (MDD), represent one of the most prevalent set of disorders worldwide. MDD is characterized by a range of cognitive, behavioral, and neurobiological changes that contribute to the vast array of symptom profiles that make this disorder particularly difficult to treat. A multitude of established evidence suggests a role for the dopamine system, stemming in part from the ventral tegmental area (VTA), in mediating symptoms and behavioral changes that underlie depression. Developments in cutting-edge technologies in pre-clinical models of depressive phenotypes, such as retrograde tracing, electrophysiological recordings, immunohistochemistry, and molecular profiling, have allowed a deeper characterization of singular VTA neuron molecular, physiological, and projection properties. These developments have highlighted that the VTA is not a homogenous cell population but instead comprises vast cellular diversity that underscores its modular role across various functions related to reward processing, aversion, salience processing, learning and motivation. In this review, we begin by introducing the various cell types and brain regions that comprise the VTA circuitry. Then, we introduce the role of the VTA in reward processing as it compares to aversion processing. Next, we characterize distinct neural pathways within the VTA circuitry to understand the effects of chronic social and non-social stress and tie together how these neurobiological changes manifest into specific behavioral phenotypes. Finally, we relate these preclinical findings to clinical findings to parse the heterogeneity of depressive phenotypes and explain the efficacy of recent novel pharmacological interventions that may target the VTA in MDD.
@@ -28,8 +28,7 @@ abstract: Depressive disorders, including major depressive disorder (MDD), repre
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
@@ -64,13 +63,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
