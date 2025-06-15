@@ -58,8 +58,8 @@ education:
    #   url: 'https://example.com'
   - area: Biopsychology
     institution: University of California, Santa Barbara
-    date_start: 2015-09
-    date_end: 2019-06
+    date_start: 2015-09-17
+    date_end: 2019-06-15
    # summary: |
    #   GPA: 3.8/4.0
 
@@ -73,8 +73,8 @@ work:
     company_name: ''
     company_url: ''
     company_logo: ''
-    date_start: 2019-10
-    date_end: 2020-04
+    date_start: 2019-10-05
+    date_end: 2020-04-01
     summary: |2-
       Responsibilities included:
       - Conducted health history documentation and patient intakes.
@@ -128,17 +128,17 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 Honors & Awards:
   - title: Travel Award
-    date: '2024-03'
+    date: '2024-03-01'
     awarder: Society for Affective Science
    # icon: coursera
   - title: Diversity in Neuroscience Award for Promoting Diversity, Equity, Inclusion and Good Climate
-    date: '2023-05'
+    date: '2023-05-05'
     awarder: Icahn School of Medicine at Mount Sinai, Friedman Brain Institute
   - title: Travel Award
-    date: '2023-04'
+    date: '2023-04-01'
     awarder: Computational Psychiatry Conference
   - title: Diversity Supplement Training Grant, R01MH116953 ($97,018.00)
-    date: '2023-01'
+    date: '2023-01-01'
     awarder: National Institute of Mental Health
     
 
