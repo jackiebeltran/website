@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Student
+role: Neuroscience PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -40,6 +40,9 @@ profiles:
     url: https://www.linkedin.com/in/jacquelinembeltran/
   - icon: academicons/research-gate
     url: https://www.researchgate.net/profile/Jacqueline-Beltran-2
+button:
+  text: Download CV
+  url: uploads/Beltrán_CV.pdf
 
 interests:
   - Mood Disorders
