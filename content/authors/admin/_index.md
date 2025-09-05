@@ -42,7 +42,7 @@ profiles:
     url: https://www.researchgate.net/profile/Jacqueline-Beltran-2
 button:
   text: Download CV
-  url: uploads/Beltrán_CV.pdf
+  url: uploads/BeltranJacqueline_CV.pdf
 
 interests:
   - Mental Health
