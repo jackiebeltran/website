@@ -38,20 +38,29 @@ sections:
         columns: '1'
       subtitle: ''
       text: |-
-        <div style="display:flex; align-items:flex-start; gap:24px;">
-          <div style="flex:2;">
-            <p>I’m a first-generation scholar from San Diego, CA inspired by a diverse immigrant community that shaped my path into science. After earning my B.S. in Biopsychology at UC Santa Barbara, I gained clinical experience as a medical assistant before moving to New York City to pursue my PhD in Neuroscience at the Icahn School of Medicine at Mount Sinai (expected 2026).</p>
+        <div style="text-align: center;">
+            I’m a first-generation scholar from San Diego, CA inspired by a diverse immigrant community that shaped my path into science. After earning my B.S. in Biopsychology at UC Santa Barbara, I gained clinical experience as a medical assistant before moving to New York City to pursue my PhD in Neuroscience at the Icahn School of Medicine at Mount Sinai (expected 2026).
+    <br>
 
-            <p>My research integrates neuroimaging, computational modeling, and digital phenotyping to better understand mood and anxiety disorders. Alongside my research, I’ve built expertise in communicating science across audiences and am passionate about leveraging technology to expand access and equity in research. Outside the lab, I love social dancing, hiking, traveling, and trying new recipes.</p>
+            My research integrates neuroimaging, computational modeling, and digital phenotyping to better understand mood and anxiety disorders. Alongside my research, I’ve built expertise in communicating science across audiences and am passionate about leveraging technology to expand access and equity in research. Outside the lab, I love social dancing, hiking, traveling, and trying new recipes.
+    <br>
 
-            <p>I’m excited to bring my analytical and translational skills to industry roles in clinical research, digital health, or medical communications.</p>
-          </div>
-          <div style="flex:1; text-align:center;">
-            <img src="/static/uploads/jackie_poster.JPG" alt="Profile photo" style="max-width:100%; border-radius:12px;">
-          </div>
-        </div>
+            I’m excited to bring my analytical and translational skills to industry roles in clinical research, digital health, or medical communications.
+          <br>
+
+  # RESEARCH
+  - block: collection
+    id: Research
+    content:
+      title: Research
+        text: |-
+          <div style="text-align: center;">
+          As humans, we have an incredible ability to find joy in experiences — whether it’s hiking a mountain, savoring a favorite meal, getting lost in a book, or dancing to live music. But when stress and mental health challenges take hold, that spark can fade, leaving behind numbness or disconnection from the things that once mattered most.
+      <br>
+          Understanding how changes in mood alter our ability to experience the world, and how these changes are reflected in the brain, has been at the core of my doctoral research. Using neuroimaging, computational modeling, and digital phenotyping, I study how differences in brain function relate to symptoms of depression and anxiety, and work to better understand the trajectories through which these symptoms develop.
+
     
-    # FEATURED PUBLICATIONS
+  # FEATURED PUBLICATIONS
   - block: collection
     id: papers
     content:
@@ -63,23 +72,10 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
-    content:
-      title: Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
+
+
+
+
     design:
       view: article-grid
       columns: 1
