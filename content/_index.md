@@ -34,16 +34,14 @@ sections:
   - block: markdown
     content:
       title: 'About Me'
+      design:
+        columns: '1'
       subtitle: ''
       text: |-
        <div style="text-align: center;">
         I’m a first-generation scholar from San Diego, CA inspired by a diverse immigrant community that shaped my path into science. After earning my B.S. in Biopsychology at UC Santa Barbara, I gained clinical experience as a medical assistant before moving to New York City to pursue my PhD in Neuroscience at the Icahn School of Medicine at Mount Sinai (expected 2026).
         My research integrates neuroimaging, computational modeling, and digital phenotyping to better understand mood and anxiety disorders. Alongside my research, I’ve built expertise in communicating science across audiences and am passionate about leveraging technology to expand access and equity in research. Outside the lab, I love social dancing, hiking, traveling, and trying new recipes.
       I’m excited to bring my analytical and translational skills to industry roles in clinical research, digital health, or medical communications. 
-
-    design:
-      columns: '1'
-
     
     # FEATURED PUBLICATIONS
   - block: collection
