@@ -46,7 +46,6 @@ sections:
       <br><br>
       I’m excited to bring my analytical and translational skills to industry roles in clinical research, digital health, or medical communications. 
 
-    
     design:
       columns: '1'
     
