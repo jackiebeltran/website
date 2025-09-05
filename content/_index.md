@@ -30,7 +30,8 @@ sections:
           size: cover
           position: center
           parallax: false
-    # ABOUT ME SECTION
+
+  # ABOUT ME SECTION
   - block: markdown
     content:
       title: 'About Me'
@@ -42,19 +43,20 @@ sections:
         I’m a first-generation scholar from San Diego, CA inspired by a diverse immigrant community that shaped my path into science. After earning my B.S. in Biopsychology at UC Santa Barbara, I gained clinical experience as a medical assistant before moving to New York City to pursue my PhD in Neuroscience at the Icahn School of Medicine at Mount Sinai (expected 2026). <br>
         My research integrates neuroimaging, computational modeling, and digital phenotyping to better understand mood and anxiety disorders. Alongside my research, I’ve built expertise in communicating science across audiences and am passionate about leveraging technology to expand access and equity in research. Outside the lab, I love social dancing, hiking, traveling, and trying new recipes. <br>
         I’m excited to bring my analytical and translational skills to industry roles in clinical research, digital health, or medical communications.
+        </div>
 
   # RESEARCH
   - block: markdown
     id: Research
     content:
       title: Research
-        text: |-
-          <div style="text-align: center;">
-          As humans, we have an incredible ability to find joy in experiences — whether it’s hiking a mountain, savoring a favorite meal, getting lost in a book, or dancing to live music. But when stress and mental health challenges take hold, that spark can fade, leaving behind numbness or disconnection from the things that once mattered most.
-      <br>
-          Understanding how changes in mood alter our ability to experience the world, and how these changes are reflected in the brain, has been at the core of my doctoral research. Using neuroimaging, computational modeling, and digital phenotyping, I study how differences in brain function relate to symptoms of depression and anxiety, and work to better understand the trajectories through which these symptoms develop.
+      text: |-
+        <div style="text-align: center;">
+        As humans, we have an incredible ability to find joy in experiences — whether it’s hiking a mountain, savoring a favorite meal, getting lost in a book, or dancing to live music. But when stress and mental health challenges take hold, that spark can fade, leaving behind numbness or disconnection from the things that once mattered most.
+        <br>
+        Understanding how changes in mood alter our ability to experience the world, and how these changes are reflected in the brain, has been at the core of my doctoral research. Using neuroimaging, computational modeling, and digital phenotyping, I study how differences in brain function relate to symptoms of depression and anxiety, and work to better understand the trajectories through which these symptoms develop.
+        </div>
 
-    
   # FEATURED PUBLICATIONS
   - block: collection
     id: papers
@@ -67,13 +69,6 @@ sections:
     design:
       view: article-grid
       columns: 2
-
-
-
-
-    design:
-      view: article-grid
-      columns: 1
   
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
