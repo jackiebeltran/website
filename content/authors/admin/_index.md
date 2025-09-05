@@ -45,15 +45,16 @@ button:
   url: uploads/Beltrán_CV.pdf
 
 interests:
-  - Mood Disorders
-  - Digital Health
+  - Mental Health
+  - Digital health technologies
+  - Health equity
   - Natural Language Processing
 
 education:
   - area: PhD Neuroscience
     institution: Icahn School of Medicine at Mount Sinai
     date_start: 2021-08-05
-    date_end: 2026-05-07
+    date_end: 2026-05-05
     summary: |
       Thesis on _Investigating the role of the ventral tegmental area in reward processing in depression_. Supervised by [Drs. Laurel Morris & James Murrough]. 
    # button:
